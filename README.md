@@ -25,6 +25,8 @@ A host machine with at least:
 - Accept the license terms and choose virtual disk
 - Set up the administrator account password
 
-5. Create 
+5. Create a Client VM
 
-README.md → this guide
+- Assign the same subnet, if using Dynamic ensure that the server is using DHCP.
+- Login using the Adminstrator account
+- Ping the server using the client and vice-versa to confirm connection.
